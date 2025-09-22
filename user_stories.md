@@ -1,0 +1,3 @@
+ - As a game developer, I want to create stunning and performant games, so that I can create exciting experiences.
+ - As a consumer researcher, I want to show people exactly how a product might look, so that I can efficiently give accurate feedback to product designers.
+ - As an instructor, I want to create interactive trainings that use real world visual information, so that I can provide better training to more people.
