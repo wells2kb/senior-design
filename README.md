@@ -2,7 +2,7 @@
 
  1. [Team names and Project Abstract](project_description.md)
  2. [Project Description](project_description.md)
- 3. [User Stories](user_stories.md) and Design Diagrams
+ 3. [User Stories](user_stories.md) and [Design Diagrams](./diagrams)
  4. [Project Tasks](tasklist.md) and [Timeline](timeline.md)
  5. [ABET Concerns/Constraints Essay](constraints.md)
  6. [PPT Slideshow](presentation.pptx)
