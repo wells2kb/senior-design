@@ -11,11 +11,9 @@ The measure for this test was the FPS as reported by Unity.
 
 ## Results
 
-+-----------+-----------+
 | before    | after     |
-+-----------+-----------+
+| --------- | --------- |
 | 101±7 FPS | 97±10 FPS |
-+-----------+-----------+
 
 ## Discussion
 
